@@ -1,9 +1,8 @@
 import time
 import os
 import platform
-import matplotlib.pyplot as plt   # 파이썬은 시각화를 한 뒤에 이미지를 얹어야 이미지가 뜬다.
-from PIL import Image  # 
-
+import matplotlib.pyplot as plt 
+from PIL import Image  
 
 def clear():   # mac(clear) or window(명령어 : cls)인지 구분하기 위해서 넣음 :  화면지우기
     os_type = platform.system()
@@ -19,7 +18,7 @@ print("무료 성격 유형 검사 입니다.")
 a = 0
 b = 0
 time.sleep(1)  # time.sleep(초) 일정시간동안 프로세스를 정지('무료 성격 유형 검사 입니다.' 글자가 1초동안 뜸)
-clear()
+clear()   # 이전화면에 나온 문자들 지움
 print("문항이?")
 print("1.을 입력")
 print("2.을 입력")
@@ -30,8 +29,8 @@ if q1 == 1:   # 답변이 1번이면 a에다가 +1
 if q1 == 2:   # 답변이 2번이면 b에다가 +1
     b += 1
 
-
-clear()
+    
+clear() 
 print("2번째 문항이?")
 print("1.을 입력")
 print("2.을 입력")
@@ -113,6 +112,3 @@ else:
     image = Image.open(os.path.join(script_dir, '''이미지'''))
     plt.imshow(image)
     plt.show()
-
-# 
-# while문 사용해서 처음으로 돌아가는 코드짜기
