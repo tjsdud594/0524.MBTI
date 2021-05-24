@@ -3,6 +3,8 @@ import os
 import platform
 import matplotlib.pyplot as plt 
 from PIL import Image  
+# https://www.delftstack.com/ko/howto/matplotlib/display-an-image-with-matplotlib-python/
+
 
 while True:
 
@@ -84,15 +86,27 @@ while True:
 
     if a > b and a > c:
         print("슬리데린")
+        image = Image.open('Slytherin.jpg')
+        plt.imshow(image)
+        plt.show()
        
     elif b > a and b > c:
         print("그리핀도르")
+        image = Image.open('Gryffindor.jpg')
+        plt.imshow(image)
+        plt.show()
     
     elif c > a and c > b:
         print('래번클로')
+        image = Image.open('Ravenclaw.jpg')
+        plt.imshow(image)
+        plt.show()
 
     else:
         print("후플푸프")
+        image = Image.open('Hufflepuff.jpg')
+        plt.imshow(image)
+        plt.show()
 
     print("배정완료!") 
 
