@@ -133,21 +133,21 @@
         '''
     3. Hogwarts MBTI 생성 후 결과창에 image가 뜨도록 추가
         > 그리핀도르
-        ![Gryffindor.jpg](./0524mini_project_MBTI/Gryffindor.jpg)
+        ![Gryffindor](./0524.MBTI/img/Gryffindor.jpg)
 
         > 슬리데린
-        ![Slytherin.jpg](./0524mini_project_MBTI/Slytherin.jpg)
+        ![Slytherin](./0524.MBTI/img/Slytherin.jpg)
 
         > 래번클로
-        ![Ravenclaw.jpg](./0524mini_project_MBTI/Ravenclaw.jpg)
+        ![Ravenclaw](./0524.MBTI/img/Ravenclaw.jpg)
 
         > 후플푸프
-        ![Hufflepuff.jpg](./0524mini_project_MBTI/Hufflepuff.jpg)
+        ![Hufflepuff](./0524.MBTI/img/Hufflepuff.jpg)
 
     4. pylint 검사 후 코드를 예쁘게 수정!
         > 첫 pylint 검사
-        ![pylint_F.png](./0524mini_project_MBTI/pylint_F.png)
+        ![pylint_F](./0524.MBTI/img/pylint_F.png)
 
         > code 수정 후
-        ![pylint_E.png](./0524mini_project_MBTI/pylint_E.png)
+        ![pylint_E](./0524.MBTI/img/pylint_E.png)
 
