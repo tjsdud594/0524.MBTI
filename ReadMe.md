@@ -133,21 +133,21 @@
         '''
     3. Hogwarts MBTI 생성 후 결과창에 image가 뜨도록 추가
         > 그리핀도르
-        https://github.com/tjsdud594/0524.MBTI/issues/1#issue-910355970
+        <img src="./img/Gryffindor.JPG" width="75%" />
 
         > 슬리데린
-        ![Slytherin](./img/Slytherin.jpg)
+        <img src="./img/Slytherin.JPG" width="75%" />
 
         > 래번클로
-        https://github.com/tjsdud594/0524.MBTI/blob/master/img/Ravenclaw.jpg
+        <img src="./img/Ravenclaw.JPG" width="75%" />
 
         > 후플푸프
-        https://github.com/tjsdud594/0524.MBTI/blob/master/img/Hufflepuff.jpg
+        <img src="./img/Hufflepuff.JPG" width="75%" />
 
     4. pylint 검사 후 코드를 예쁘게 수정!
         > 첫 pylint 검사
-        https://github.com/tjsdud594/0524.MBTI/blob/master/img/pylint_F.png
+        <img src="./img/pylint_F.JPG" width="75%" />
 
         > code 수정 후
-        https://github.com/tjsdud594/0524.MBTI/blob/master/img/pylint_E.png
+        <img src="./img/pylint_E.JPG" width="75%" />
 
