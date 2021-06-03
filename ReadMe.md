@@ -6,10 +6,10 @@
 
 <br>
 
-'''
-import time
-import os
-import platform
+    '''
+    import time
+    import os
+    import platform
 
     def clear():   
 
@@ -112,7 +112,7 @@ import platform
         plt.show()
 
     print("배정완료!")
-'''
+    '''
 
 <br>
             
