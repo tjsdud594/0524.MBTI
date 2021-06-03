@@ -133,7 +133,7 @@
         '''
     3. Hogwarts MBTI 생성 후 결과창에 image가 뜨도록 추가
         > 그리핀도르
-        https://github.com/tjsdud594/0524.MBTI/blob/master/img/Gryffindor.jpg
+        https://github.com/tjsdud594/0524.MBTI/issues/1#issue-910355970
 
         > 슬리데린
         ![Slytherin](./img/Slytherin.jpg)
