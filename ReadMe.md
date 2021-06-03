@@ -3,7 +3,9 @@
 ### - Who? 강정현, 이성규, 정주영A, 류선영
 ### - What?
     **1. MBTI 뼈대 코드를 이용해 자신만의 MBTI를 만듦**
-    <br>
+
+<br>
+
      '''import time
         import os
         import platform
@@ -109,11 +111,11 @@
                 plt.show()
 
             print("배정완료!")'''
-        <br>
+<br>
             
     **2. While을 이용하여 MBTI 검사 후 다시 처음부터 검사 할 수 있도록 기능추가!**
         > 처음에 While문을 마지막에 if문을 넣어서 기능구현 
-        <br>
+<br>
         '''while True:
 
         (MBTI CODE)
@@ -132,7 +134,7 @@
                 clear()
                 print('끝')
                 break'''
-            <br>
+<br>
             
     **3. Hogwarts MBTI 생성 후 결과창에 image가 뜨도록 추가**
         > 그리핀도르
