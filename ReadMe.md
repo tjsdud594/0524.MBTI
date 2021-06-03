@@ -2,7 +2,7 @@
 ## **0524 mini project**
 ### - Who? 강정현, 이성규, 정주영A, 류선영
 ### - What?
-    **1. MBTI 뼈대 코드를 이용해 자신만의 MBTI를 만듦**
+**####1. MBTI 뼈대 코드를 이용해 자신만의 MBTI를 만듦**
 
 <br>
 
@@ -113,10 +113,11 @@
             print("배정완료!")'''
 <br>
             
-    **2. While을 이용하여 MBTI 검사 후 다시 처음부터 검사 할 수 있도록 기능추가!**
-        > 처음에 While문을 마지막에 if문을 넣어서 기능구현 
+**####2. While을 이용하여 MBTI 검사 후 다시 처음부터 검사 할 수 있도록 기능추가!**
+> 처음에 While문을 마지막에 if문을 넣어서 기능구현 
 <br>
-        '''while True:
+        '''
+        while True:
 
         (MBTI CODE)
 
@@ -133,31 +134,34 @@
             if q6 != 1:
                 clear()
                 print('끝')
-                break'''
+                break
+                '''
 <br>
             
-    **3. Hogwarts MBTI 생성 후 결과창에 image가 뜨도록 추가**
-        > 그리핀도르
-        ![Gryffindor](https://user-images.githubusercontent.com/84279479/120633972-b6c5db00-c4a5-11eb-8ddd-207cec2761fd.jpg)
+**3. Hogwarts MBTI 생성 후 결과창에 image가 뜨도록 추가**
 
-        > 슬리데린
-        ![Slytherin](https://user-images.githubusercontent.com/84279479/120634401-2c31ab80-c4a6-11eb-9072-1b8a11165945.jpg)
+> 그리핀도르
+![Gryffindor](https://user-images.githubusercontent.com/84279479/120633972-b6c5db00-c4a5-11eb-8ddd-207cec2761fd.jpg)
 
-
-        > 래번클로
-        ![Ravenclaw](https://user-images.githubusercontent.com/84279479/120634384-26d46100-c4a6-11eb-985d-4a44b56e2b9f.jpg)
+> 슬리데린
+![Slytherin](https://user-images.githubusercontent.com/84279479/120634401-2c31ab80-c4a6-11eb-9072-1b8a11165945.jpg)
 
 
-        > 후플푸프
-        ![Hufflepuff](https://user-images.githubusercontent.com/84279479/120634425-32c02300-c4a6-11eb-9997-08f90ca9a359.jpg)
+> 래번클로
+![Ravenclaw](https://user-images.githubusercontent.com/84279479/120634384-26d46100-c4a6-11eb-985d-4a44b56e2b9f.jpg)
 
 
-    **4. pylint 검사 후 코드를 예쁘게 수정!**
-        > 첫 pylint 검사
-        ![pylint_F](https://user-images.githubusercontent.com/84279479/120634457-3b185e00-c4a6-11eb-8fef-8771cea35de9.png)
+> 후플푸프
+![Hufflepuff](https://user-images.githubusercontent.com/84279479/120634425-32c02300-c4a6-11eb-9997-08f90ca9a359.jpg)
+
+<br>
+
+**4. pylint 검사 후 코드를 예쁘게 수정!**
+> 첫 pylint 검사
+![pylint_F](https://user-images.githubusercontent.com/84279479/120634457-3b185e00-c4a6-11eb-8fef-8771cea35de9.png)
 
 
-        > code 수정 후
-        ![pylint_E](https://user-images.githubusercontent.com/84279479/120634480-42d80280-c4a6-11eb-8810-adc335726388.png)
+> code 수정 후
+![pylint_E](https://user-images.githubusercontent.com/84279479/120634480-42d80280-c4a6-11eb-8810-adc335726388.png)
 
 
