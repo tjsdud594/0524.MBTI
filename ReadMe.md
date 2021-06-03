@@ -136,7 +136,7 @@
         https://github.com/tjsdud594/0524.MBTI/blob/master/img/Gryffindor.jpg
 
         > 슬리데린
-        https://github.com/tjsdud594/0524.MBTI/blob/master/img/Slytherin.jpg
+        ![Slytherin](./img/Slytherin.jpg)
 
         > 래번클로
         https://github.com/tjsdud594/0524.MBTI/blob/master/img/Ravenclaw.jpg
