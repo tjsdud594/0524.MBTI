@@ -136,7 +136,7 @@
         https://github.com/tjsdud594/0524.MBTI/issues/1#issue-910355970
 
         > 슬리데린
-        https://github.com/tjsdud594/0524.MBTI/blob/master/img/Slytherin.jpg
+        ![download](https://github.com/tjsdud594/0524.MBTI/blob/master/img/Slytherin.jpg)
 
         > 래번클로
         https://github.com/tjsdud594/0524.MBTI/blob/master/img/Ravenclaw.jpg
