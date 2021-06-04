@@ -1,4 +1,3 @@
-
 ## **0524 mini project**
 ### - Who? 
 >#### 강정현, 이성규, 정주영A, 류선영
@@ -148,31 +147,31 @@
 
 > 그리핀도르
 
-<img src="0524.MBTI/img/Gryffindor.JPG" width="75%" />
+![Gryffindor](https://user-images.githubusercontent.com/84279479/120772515-5b562480-c55b-11eb-9590-ec29e31be89b.jpg)
 
 > 슬리데린
 
-<img src="0524.MBTI/img/Slytherin.JPG" width="75%" />
-
+![Slytherin](https://user-images.githubusercontent.com/84279479/120772585-6c9f3100-c55b-11eb-93e1-28e6a1ff1184.jpg)
 
 > 래번클로
 
-<img src="0524.MBTI/img/Ravenclaw.JPG" width="75%" />
-
+![Ravenclaw](https://user-images.githubusercontent.com/84279479/120772664-7f196a80-c55b-11eb-95a3-3b73a0c5947b.jpg)
 
 > 후플푸프
 
-<img src="0524.MBTI/img/Hufflepuff.JPG" width="75%" />
+![Hufflepuff](https://user-images.githubusercontent.com/84279479/120772715-8e001d00-c55b-11eb-9830-878f5d167e9b.jpg)
+
 <br>
 
 #### **4. pylint 검사 후 코드를 예쁘게 수정!**
 > 첫 pylint 검사
 
-<img src="0524.MBTI/img/pylint_F.PNG" width="75%" />
+![pylint_F](https://user-images.githubusercontent.com/84279479/120772791-a4a67400-c55b-11eb-8d89-a438836f0d03.png)
 
 
 > code 수정 후
 
-<img src="0524.MBTI/img/pylint_E.PNG" width="75%" />
+![pylint_E](https://user-images.githubusercontent.com/84279479/120772850-b2f49000-c55b-11eb-9952-0ded57dce140.png)
+
 
 
