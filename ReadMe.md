@@ -148,32 +148,31 @@
 
 > 그리핀도르
 
-![Gryffindor](https://user-images.githubusercontent.com/84279479/120633972-b6c5db00-c4a5-11eb-8ddd-207cec2761fd.jpg)
+![Gryffindor]<img src="./img/Gryffindor.JPG" width="75%" />
 
 > 슬리데린
 
-![Slytherin](https://user-images.githubusercontent.com/84279479/120634401-2c31ab80-c4a6-11eb-9072-1b8a11165945.jpg)
+![Slytherin]<img src="./img/Slytherin.JPG" width="75%" />
 
 
 > 래번클로
 
-![Ravenclaw](https://user-images.githubusercontent.com/84279479/120634384-26d46100-c4a6-11eb-985d-4a44b56e2b9f.jpg)
+![Ravenclaw]<img src="./img/Ravenclaw.JPG" width="75%" />
 
 
 > 후플푸프
 
-![Hufflepuff](https://user-images.githubusercontent.com/84279479/120634425-32c02300-c4a6-11eb-9997-08f90ca9a359.jpg)
-
+![Hufflepuff]<img src="./img/Hufflepuff.JPG" width="75%" />
 <br>
 
 #### **4. pylint 검사 후 코드를 예쁘게 수정!**
 > 첫 pylint 검사
 
-![pylint_F](https://user-images.githubusercontent.com/84279479/120634457-3b185e00-c4a6-11eb-8fef-8771cea35de9.png)
+![pylint_F]<img src="./img/pylint_F.JPG" width="75%" />
 
 
 > code 수정 후
 
-![pylint_E](https://user-images.githubusercontent.com/84279479/120634480-42d80280-c4a6-11eb-8810-adc335726388.png)
+![pylint_E]<img src="./img/pylint_E.JPG" width="75%" />
 
 
