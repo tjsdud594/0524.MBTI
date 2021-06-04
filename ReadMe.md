@@ -148,31 +148,31 @@
 
 > 그리핀도르
 
-<img src="./img/Gryffindor.JPG" width="75%" />
+<img src="0524.MBTI/img/Gryffindor.JPG" width="75%" />
 
 > 슬리데린
 
-<img src="./img/Slytherin.JPG" width="75%" />
+<img src="0524.MBTI/img/Slytherin.JPG" width="75%" />
 
 
 > 래번클로
 
-<img src="./img/Ravenclaw.JPG" width="75%" />
+<img src="0524.MBTI/img/Ravenclaw.JPG" width="75%" />
 
 
 > 후플푸프
 
-<img src="./img/Hufflepuff.JPG" width="75%" />
+<img src="0524.MBTI/img/Hufflepuff.JPG" width="75%" />
 <br>
 
 #### **4. pylint 검사 후 코드를 예쁘게 수정!**
 > 첫 pylint 검사
 
-<img src="./img/pylint_F.JPG" width="75%" />
+<img src="0524.MBTI/img/pylint_F.PNG" width="75%" />
 
 
 > code 수정 후
 
-<img src="./img/pylint_E.JPG" width="75%" />
+<img src="0524.MBTI/img/pylint_E.PNG" width="75%" />
 
 
